@@ -1,0 +1,11 @@
+<component name="libraryTable">
+  <library name="algs4_modified">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/src/lib/algs4_modified.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES>
+      <root url="jar://$PROJECT_DIR$/src/lib/algs4_modified.jar!/com/algs4" />
+    </SOURCES>
+  </library>
+</component>
